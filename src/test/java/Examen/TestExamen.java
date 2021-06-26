@@ -39,7 +39,7 @@ public class TestExamen {
         //Cierra la instancia del navegador
         driver.quit();
 
-        //actualiza 25/06/2021
-        
+        //actualiza 26/06/2021
+
     }
 }
